@@ -1,6 +1,6 @@
 # dcHudll
 push chat in dc
-
+message wil sent every 5 minute
 
 1. set delay bitween mesaage : 100
 2. set sleep :100
